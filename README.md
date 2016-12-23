@@ -8,3 +8,5 @@ A portable search bar object that performs 2 key functions, 1) a regular quickfi
 Where to Start
 
 Read the Modules -> FlexSearch -> FlexSearch READ ME script. Go to http://www.modularfilemaker.org/ to learn more about modules.
+
+test test
